@@ -146,7 +146,12 @@ module.exports = {
    <a href='https://repl.it/github/Tohidkhan6332/TOHID-KHAN' target="_blank">
       <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-FF10F0?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
+   
    **Option 7: Github Workflows**
+   
+   **Option 8: Pterodactly/Control Panel**
+
+   **Option 9: Or Any NodeJS Enviroment**
    
 <h2>A Little About This Bot</h2>
 <ul>
