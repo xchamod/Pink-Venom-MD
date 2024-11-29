@@ -41,12 +41,12 @@
 
 2. Get session id by (SCANNING QR)
     <br>
-<a href='https://pink-venom-session.vercel.app/qr' target="_blank"><img alt='Q R - C O D E' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
+<a href='https://session-hyper-hackers.vercel.app/qr' target="_blank"><img alt='Q R - C O D E' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
 
 
 2. Get session id by (PAIRING CODE)
     <br>
-<a href='https://pink-venom-session.vercel.app/pair' target="_blank"><img alt='P A I R - C O D E' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
+<a href='https://session-hyper-hackers.vercel.app/pair' target="_blank"><img alt='P A I R - C O D E' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
 
 <h2> 乂 N O T E - B E F O R E - U S I N G !!- EN</h2>
 <ul>
