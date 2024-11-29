@@ -46,7 +46,7 @@
 
 2. Get session id by (PAIRING CODE)
     <br>
-<a href='https://session-hyper-hackers.vercel.app/pair' target="_blank"><img alt='P A I R - C O D E' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
+<a href='https://session-hyper-hackers.vercel.app/pair' target="_blank"><img alt='P A I R - C O D E' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
 
 <h2> 乂 N O T E - B E F O R E - U S I N G !!- EN</h2>
 <ul>
@@ -56,7 +56,7 @@
 
 <hr>
 
-<h2>乂 N O T E - B E F O R E - U S I N G!! -SI</h2>
+<h2>乂 N O T E - B E F O R E - U S I N G !! -SI</h2>
 <ul>
     <li>🔹 </code>Fork</code> / Use This </code>Template</code> button එක Click කරන්න.</li>
     <li>🔹 ඔබේ <code>SESSION ID</code>, Github Auth Token(gph_ නැතිව) සහ Github User Name: <code>config.js</code> එකට එක් කරන්න.</li>
