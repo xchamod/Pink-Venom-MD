@@ -36,7 +36,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Kingbega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
+<a href='https://github.com/ayooh-me/Pink-Venom-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=FF10F0&labelColor=FF10F0&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR)
